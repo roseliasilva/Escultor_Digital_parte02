@@ -1,4 +1,4 @@
-#include "../Headers/cutsphere.h"
+#include "cutsphere.h"
 
 CutSphere::CutSphere(int xc, int yc, int zc, int radius_){
   this -> xcenter = xc;

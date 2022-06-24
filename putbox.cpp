@@ -1,4 +1,4 @@
-#include "../Headers/putbox.h"
+#include "putbox.h"
 
 PutBox::PutBox (int x0_, int x1_, int y0_, int y1_, int z0_, int z1_, float r_, float g_, float b_, float a_){
   this -> x0 = x0_;

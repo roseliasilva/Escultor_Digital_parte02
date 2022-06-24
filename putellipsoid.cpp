@@ -1,4 +1,4 @@
-#include "../Headers/putellipsoid.h"
+#include "putellipsoid.h"
 
 PutEllipsoid::PutEllipsoid (int xcenter_, int ycenter_, int zcenter_, int rx_, int ry_, int rz_, int r_, int g_, int b_, int a_){
   this -> xcenter = xcenter_, this -> ycenter = ycenter_, this -> zcenter = zcenter_;

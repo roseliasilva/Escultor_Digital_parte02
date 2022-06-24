@@ -1,4 +1,4 @@
-#include "../Headers/cutbox.h"
+#include "cutbox.h"
 
 CutBox::CutBox (int x0_, int x1_, int y0_, int y1_, int z0_, int z1_){
   this -> x0 = x0_; this -> x1 = x1_;

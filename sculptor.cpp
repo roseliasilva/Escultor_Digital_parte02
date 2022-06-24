@@ -1,8 +1,10 @@
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
-#include "../Headers/sculptor.h"
-#include "../Headers/voxel.h"
+#include <math.h>
+#include <iomanip>
+#include "sculptor.h"
+#include "voxel.h"
 
 Sculptor::Sculptor(int _nx, int _ny, int _nz){
 

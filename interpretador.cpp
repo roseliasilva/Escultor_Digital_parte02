@@ -3,15 +3,15 @@
 #include <fstream>
 #include <sstream>
 
-#include "../Headers/putvoxel.h"
-#include "../Headers/cutvoxel.h"
-#include "../Headers/putbox.h"
-#include "../Headers/cutbox.h"
-#include "../Headers/putsphere.h"
-#include "../Headers/cutsphere.h"
-#include "../Headers/putellipsoid.h"
-#include "../Headers/cutellipsoid.h"
-#include "../Headers/interpretador.h"
+#include "putvoxel.h"
+#include "cutvoxel.h"
+#include "putbox.h"
+#include "cutbox.h"
+#include "putsphere.h"
+#include "cutsphere.h"
+#include "putellipsoid.h"
+#include "cutellipsoid.h"
+#include "interpretador.h"
 
 Interpretador::Interpretador(){
   dimx = dimy = dimz = 0;

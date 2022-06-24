@@ -1,5 +1,5 @@
 #include <iostream>
-#include "./Headers/interpretador.h"
+#include "interpretador.h"
 #include <vector>
 
 int main(){

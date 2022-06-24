@@ -1,4 +1,4 @@
-#include "../Headers/putsphere.h"
+#include "putsphere.h"
 
 PutSphere::PutSphere(int xc, int yc, int zc, int radius_, float r_, float g_, float b_, float a_){
   this -> xcenter = xc;
